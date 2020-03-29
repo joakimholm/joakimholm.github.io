@@ -10,7 +10,7 @@ twitter_username: jockeholm
 github_username:  joakimholm
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
